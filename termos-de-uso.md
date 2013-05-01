@@ -29,7 +29,7 @@ Este Termo de Uso regula as condições de uso dos serviços da plataforma **Get
 
 Também, informamos a você que utilizando nossos serviços você está contratando-os, sendo assim, por força desta contratação você fica obrigado de acordo com os dispostos neste documento e nos demais documentos pertinentes à plataforma **Getup**.
 
-O preenchimento do Formulário de Contratação (cadastro de usuário do sistema de nossa plataforma) atribui-lhe a condição de “**CLIENTE**” dos serviços e, portanto, implica em aceitação plena e sem reservas de todos os itens e demais termos publicados no momento de utilização dos serviços. A Política de Uso Aceitável (PUA), Política de Suporte e Política de Privacidade fazem parte desta contratação e, consequentemente, são partes integrantes destes Termos de Uso, motivo pelo qual insistimos que leia-os periodicamente.
+O preenchimento do Formulário de Contratação (cadastro de usuário do sistema de nossa plataforma) atribui-lhe a condição de **"CLIENTE"** dos serviços e, portanto, implica em aceitação plena e sem reservas de todos os itens e demais termos publicados no momento de utilização dos serviços. A Política de Uso Aceitável (PUA), Política de Suporte e Política de Privacidade fazem parte desta contratação e, consequentemente, são partes integrantes destes Termos de Uso, motivo pelo qual insistimos que leia-os periodicamente.
 
 **A FIM DE UTILIZAR OS SERVIÇOS GETUP, VOCÊ DEVE CONCORDAR COM O PRESENTE TERMOS DE USO. ESTE É UM DOCUMENTO IMPORTANTE, O QUAL VOCÊ DEVE LER ATENTAMENTE ANTES DE DECIDIR USAR OU NÃO OS SERVIÇOS DA PLATAFORMA GETUP. VOCÊ ENTENDE E CONCORDA QUE A GETUP CONSIDERARÁ O USO DOS SERVIÇOS COMO ACEITAÇÃO DESTES TERMOS E TODOS OS DEMAIS TEXTOS LEGAIS PERTINENTES CITADOS NO PARÁGRAFO ACIMA.**
 
