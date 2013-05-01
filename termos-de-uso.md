@@ -87,7 +87,7 @@ A **Getup** manterá em seus registros os dados do cartão de crédito fornecido
 
 Caso o cartão de crédito utilizado não seja do **CLIENTE**, assume ele plena responsabilidade civil e criminal perante o titular do cartão de crédito pela utilização levada a efeito.
 
-A **Getup** também reserva-se o direito de utilizar, a seu critério, PRESTADORES DE SERVIÇOS para facilitar e efetuar a **GESTÃO DE PAGAMENTO**, caso em que o **CLIENTE** deverá ler as políticas relacionadas a estes prestadores, não restando a **Getup** nenhuma responsabilidade acerca da não observância disto, assim como da utilização dos dados pessoais, incluindo dados do cartão de crédito, do **CLIENTE**, por parte destes PRESTADORES DE SERVIÇO.
+A **Getup** também reserva-se o direito de utilizar, a seu critério, **PRESTADORES DE SERVIÇOS** para facilitar e efetuar a **GESTÃO DE PAGAMENTO**, caso em que o **CLIENTE** deverá ler as políticas relacionadas a estes prestadores, não restando a **Getup** nenhuma responsabilidade acerca da não observância disto, assim como da utilização dos dados pessoais, incluindo dados do cartão de crédito, do **CLIENTE**, por parte destes **PRESTADORES DE SERVIÇO**.
 
 Corre por conta exclusiva do **CLIENTE** a obrigação de solicitar a cessação dos débitos em seu cartão de crédito. Por isso, visando a melhor prática de consumo por nossos **CLIENTE**S, alertamos para que você utilize com parcimônia e inteligência seu cartão de crédito.
 
