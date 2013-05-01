@@ -17,7 +17,7 @@ Ainda deixamos claro que, apesar de nossa política interna ser a favor da liber
 
 A violação a esta **PUA** poderá resultar na suspensão ou exclusão imediata da sua conta junto a **Getup**.
 
-Este documento visa fornecer uma compreensão básica da Política de Utilização Aceitável (**PUA**) da **Getup**.
+Este documento visa fornecer uma compreensão básica da **Política de Utilização Aceitável (PUA)** da **Getup**.
 
 Mas para que ele serve especificamente? Esta seria uma ótima pergunta a se fazer, e se você a fez, a resposta é:
 
@@ -74,7 +74,7 @@ Abaixo seguem algumas das violações à esta Política de Utilização Aceitáv
 
 * 9. Direitos autorais ou violação de marca registada: É proibido o uso de serviços da **Getup** para transmissão e/ou armazenagem de qualquer material (por e-mail, upload, publicação ou outro) que viole qualquer direito autoral, intelectual, marcas, patentes, segredos comerciais ou outros direitos de propriedade de terceiros, incluindo, mas não limitando-se apenas, a cópia não autorizada de material protegido por direitos autorais, a digitalização e distribuição de fotografias de revistas, livros ou outras fontes de direitos autorais, e a transferência não autorizada de software protegido por direitos autorais.
 
-* 10. Dados Pessoais: O uso dos nossos serviços para a recolher ou tentar recolher, de quaisquer formas, informações pessoais de terceiros sem o seu prévio conhecimento ou consentimento é expressamente proibido. Para saber mais como a **Getup** utiliza e protege seus dados, por favor, leia nossa Política de Privacidade.
+* 10. Dados Pessoais: O uso dos nossos serviços para a recolher ou tentar recolher, de quaisquer formas, informações pessoais de terceiros sem o seu prévio conhecimento ou consentimento é expressamente proibido. Para saber mais como a **Getup** utiliza e protege seus dados, por favor, leia nossa [Política de Privacidade](https://github.com/getupcloud/documentos/blob/master/politica-de-privacidade.md).
 
 * 11. Interferências de Redes: O uso dos Serviços para qualquer atividade que impeça ou dificulte a possibilidade de outras pessoas ou sistemas de usá-los é repudiado pela **Getup**. Isto inclui ataques "denial of service" (DoS Attack) contra outra rede ou utilizador individual. A interferência ou interrupção de redes de outros utilizadores, serviços ou equipamentos é proibida. É da responsabilidade do **CLIENTE** assegurar que seus websites ou navegadores ou redes pessoais estão configurados de uma forma segura. Um **CLIENTE** não deve, através de ações ou omissão, permitir outros utilizadores acessar à sua conta para ações ilegais ou inapropriadas. Entrada não autorizada e/ou utilização do computador/sistema de outra empresa ou individual irá resultar no cancelamento imediato da conta. A **Getup** não irá tolerar a tentativa ou acesso a contas de outros **CLIENTES**, através da penetração das medidas de segurança dos nossos ou de outros sistemas, quer a intrusão resulte ou não na corrupção ou perda de dados.
 
@@ -150,4 +150,4 @@ Revisões a esta Política de Utilização Aceitável
 
 A **Getup** reserva-se o direito a rever, modificar ou corrigir esta **Política de Utilização Aceitável (PUA)**, aos Termos de Uso e a outras políticas atreladas a nossa plataforma de serviços a qualquer momento e de qualquer forma.
 
-Por este motivo, incentivamos que você visite periodicamente esta seção do Site para ficar atualizado acerca de nossas Políticas e Termos.
+Por este motivo, incentivamos que você visite periodicamente esta seção do Site para ficar atualizado acerca de nossas [Políticas e Termos](https://github.com/getupcloud/documentos/).

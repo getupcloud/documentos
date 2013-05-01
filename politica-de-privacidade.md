@@ -15,14 +15,14 @@ Também, a **Getup** garante a proteção adequada para suas aplicações armaze
 
 A **Getup**, em princípio, não transferirá suas "Informações Cadastrais", sem seu consentimento, para terceiros. Só há duas possibilidades em que transferiremos suas informações a terceiros: por força de lei ou ordem judicial e quando for necessária a troca de informações com empresas que façam parte do grupo empresarial da **Getup** ou terceirizadas pela **Getup** para otimizar o serviço do Site, que poderá, para tanto, recolher informações acerca do IP utilizado pelo **CLIENTE**, por exemplo.
 
-É importante que você saiba, e pela utilização de nossos serviços você concorda, que nossa política de privacidade abrange o recolhimento, utilização, transferência e armazenamento da suas informações, estando expressas neste documento e nas demais Políticas e Termos de utilização de nosso Site.
+É importante que você saiba, e pela utilização de nossos serviços você concorda, que nossa política de privacidade abrange o recolhimento, utilização, transferência e armazenamento da suas informações, estando expressas neste documento e nas demais [Políticas e Termos de utilização de nosso Site](https://github.com/getupcloud/documentos).
 
 Nossos serviços e suas informações pessoais
 -------------------------------------------
 
 Este Site contém informações institucionais, técnicas e comerciais, sendo uma plataforma de hospedagem e gerenciamento de aplicativos hospedados em ambiente de nuvem que proporciona escalabilidade de recursos, através de solução “PaaS” (Plataform as a Service), que somente poderá ser acessada após cadastro prévio e obtenção de senha.
 
-A proteção dos dados pessoais solicitados para a obtenção da senha de acesso à nossa plataforma é fixada pela nossa Politica de Privacidade. Entretanto, para a viabilidade de negócios on-line, será necessária a transferência de dados financeiros entre o cliente e a **Getup** ou entre o cliente e o prestador de serviço para viabilização de pagamentos. Esta relação e a consequente transferência de dados é regulada pela presente Política de Privacidade, assim como pelos Termos de Uso, tanto deste Site quanto dos sites dos terceiros aludidos aqui.
+A proteção dos dados pessoais solicitados para a obtenção da senha de acesso à nossa plataforma é fixada pela nossa Politica de Privacidade. Entretanto, para a viabilidade de negócios on-line, será necessária a transferência de dados financeiros entre o cliente e a **Getup** ou entre o cliente e o prestador de serviço para viabilização de pagamentos. Esta relação e a consequente transferência de dados é regulada pela presente [Política de Privacidade](https://github.com/getupcloud/documentos/blob/master/politica-de-privacidade.md), assim como pelos Termos de Uso, tanto deste Site quanto dos sites dos terceiros aludidos aqui.
 
 Caso o cliente seja encaminhado, após a confirmação do pedido, para o portal de pagamento on-line do prestador de serviço (empresa contratada para gestão de pagamento), este será o responsável pela operação.
 
@@ -46,7 +46,7 @@ A segurança de seus dados são muito importantes para a **Getup**, contudo a pr
 
 Nas áreas em que são exigidas a identificação e a senha do cliente, somente ele terá acesso às informações, sendo que a comunicação é feita e protegida por criptografia HTTPS. **O cliente deve manter em absoluto sigilo sua senha, que é de uso pessoal e intransferível.**
 
-A **Getup** não se responsabiliza pela utilização indevida da senha por terceiros, nem pelo conhecimento ou manipulação de informações do cliente em consequência dessa utilização indevida. É importante para você, que leia nossa [*Política de Utilização Aceitável* (PUA)](https://github.com/**getup**cloud/documentos/blob/master/politica-de-utilizacao-aceitavel.md), para entender mais acerca disto.
+A **Getup** não se responsabiliza pela utilização indevida da senha por terceiros, nem pelo conhecimento ou manipulação de informações do cliente em consequência dessa utilização indevida. É importante para você, que leia nossa [Política de Utilização Aceitável (PUA)](https://github.com/**getup**cloud/documentos/blob/master/politica-de-utilizacao-aceitavel.md), para entender mais acerca disto.
 
 **Em nenhuma hipótese de contato com cliente por parte da **Getup**, a senha do cliente será solicitada. Caso isso ocorra, não responda! Ainda, nos informe imediatamente este ocorrido através do nosso suporte.**
 
@@ -74,8 +74,8 @@ A **Getup** não está estruturado para atrair crianças e não oferece quaisque
 Concordância e mudanças em nossa Política de Privacidade
 --------------------------------------------------------
 
-Ao utilizar nossa plataforma e acessar este Site, você manifesta sua concordância com os termos de nossa "Política de Privacidade" e com o processamento das "Informações Cadastrais" feitos pela **Getup** para os fins descritos neste documento. Em caso de alteração desta "Política de Privacidade", tomaremos medidas para assegurar que essas alterações lhe sejam comunicadas, por meio de publicação destacada em nosso Site ou enviadas para seu e-mail.
+Ao utilizar nossa plataforma e acessar este Site, você manifesta sua concordância com os termos de nossa Política de Privacidade e com o processamento das "Informações Cadastrais" feitos pela **Getup** para os fins descritos neste documento. Em caso de alteração desta Política de Privacidade, tomaremos medidas para assegurar que essas alterações lhe sejam comunicadas, por meio de publicação destacada em nosso Site ou enviadas para seu e-mail.
 
 Esta Política é parte integrante de todos os outros documentos legais do Site.
 
-Qualquer dúvidas acerca destas políticas, por favor, entre em contato conosco através de nosso suporte.
+Qualquer dúvidas acerca destas políticas, por favor, entre em contato conosco através de nosso suporte ou visite o website com nossas [Políticas e Termos](https://github.com/getupcloud/documentos/).

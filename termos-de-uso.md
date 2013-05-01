@@ -29,7 +29,7 @@ Este Termo de Uso regula as condições de uso dos serviços da plataforma **Get
 
 Também, informamos a você que utilizando nossos serviços você está contratando-os, sendo assim, por força desta contratação você fica obrigado de acordo com os dispostos neste documento e nos demais documentos pertinentes à plataforma **Getup**.
 
-O preenchimento do Formulário de Contratação (cadastro de usuário do sistema de nossa plataforma) atribui-lhe a condição de **"CLIENTE"** dos serviços e, portanto, implica em aceitação plena e sem reservas de todos os itens e demais termos publicados no momento de utilização dos serviços. A Política de Uso Aceitável (PUA), Política de Suporte e Política de Privacidade fazem parte desta contratação e, consequentemente, são partes integrantes destes Termos de Uso, motivo pelo qual insistimos que leia-os periodicamente.
+O preenchimento do Formulário de Contratação (cadastro de usuário do sistema de nossa plataforma) atribui-lhe a condição de **"CLIENTE"** dos serviços e, portanto, implica em aceitação plena e sem reservas de todos os itens e demais termos publicados no momento de utilização dos serviços. A [Política de Utilização Aceitável (PUA)](https://github.com/getupcloud/documentos/blob/master/politica-de-utilizacao-aceitavel.md), [Política de Suporte](https://github.com/getupcloud/documentos/blob/master/politica-de-suporte.md) e [Política de Privacidade](https://github.com/getupcloud/documentos/blob/master/politica-de-privacidade.md) fazem parte desta contratação e, consequentemente, são partes integrantes destes Termos de Uso, motivo pelo qual insistimos que leia-os periodicamente.
 
 **A FIM DE UTILIZAR OS SERVIÇOS GETUP, VOCÊ DEVE CONCORDAR COM O PRESENTE TERMOS DE USO. ESTE É UM DOCUMENTO IMPORTANTE, O QUAL VOCÊ DEVE LER ATENTAMENTE ANTES DE DECIDIR USAR OU NÃO OS SERVIÇOS DA PLATAFORMA GETUP. VOCÊ ENTENDE E CONCORDA QUE A GETUP CONSIDERARÁ O USO DOS SERVIÇOS COMO ACEITAÇÃO DESTES TERMOS E TODOS OS DEMAIS TEXTOS LEGAIS PERTINENTES CITADOS NO PARÁGRAFO ACIMA.**
 
@@ -49,13 +49,13 @@ O **CLIENTE** é o único responsável pelo gerenciamento de suas aplicações. 
 
 O **CLIENTE** deve criar apenas uma conta por endereço de e-mail e deve verificar se o endereço de e-mail que forneceu é válido e  permanecerá válido durante o prazo da contratação. 
 
-LEMBRAMOS QUE O **CLIENTE** É RESPONSÁVEL PELA SEGURANÇA DE SUA SENHA E PELO USO DE SUA CONTA. Por isto, recomendamos que não compartilhem com terceiros tais informações e, caso estas informações sejam, por qualquer motivo, extraviadas ou hackeadas, pedimos que nos informe imediatamente, a fim de que possamos solucionar a questão. Ainda, para saber mais sobre como a **Getup** utiliza seus dados pessoais, por favor, leia nossa Política de Privacidade.
+LEMBRAMOS QUE O **CLIENTE** É RESPONSÁVEL PELA SEGURANÇA DE SUA SENHA E PELO USO DE SUA CONTA. Por isto, recomendamos que não compartilhem com terceiros tais informações e, caso estas informações sejam, por qualquer motivo, extraviadas ou hackeadas, pedimos que nos informe imediatamente, a fim de que possamos solucionar a questão. Ainda, para saber mais sobre como a **Getup** utiliza seus dados pessoais, por favor, leia nossa [Política de Privacidade](https://github.com/getupcloud/documentos/blob/master/politica-de-privacidade.md).
 
 A **Getup** espera do **CLIENTE** que ele não utilize os serviços para quaisquer fins ou meios ilegais, difamatórios, discriminatórios, abusivos, ofensivos, pornográficos, obscenos, agressivos, injuriosos, vexatórios, enganosos, caluniosos, violentos, vulgares, ou de assédio, ameaça ou uso de falsa identidade.
 
-A **Getup** reserva-se o direito de excluir, sem contrapartida indenizatória e sem prévio aviso, qualquer conta de qualquer **CLIENTE** que por ventura violem o que aqui fora estipulado ou viole os ditames da Política de Utilização Aceitável (PUA).
+A **Getup** reserva-se o direito de excluir, sem contrapartida indenizatória e sem prévio aviso, qualquer conta de qualquer **CLIENTE** que por ventura violem o que aqui fora estipulado ou viole os ditames da [Política de Utilização Aceitável (PUA)](https://github.com/getupcloud/documentos/blob/master/politica-de-utilizacao-aceitavel.md).
 
-A **Getup**, também, reserva-se o direito de desativar aplicativos em resposta a uma violação ou suspeita de violação da Política de Utilização Aceitável (PUA).
+A **Getup**, também, reserva-se o direito de desativar aplicativos em resposta a uma violação ou suspeita de violação da [Política de Utilização Aceitável (PUA)](https://github.com/getupcloud/documentos/blob/master/politica-de-utilizacao-aceitavel.md).
 
 4.PREÇO DOS SERVIÇOS
 --------------------
@@ -133,7 +133,7 @@ O **CLIENTE** se obriga a manter atualizados seus dados cadastrais, bem como inf
 
 A **Getup** protege dados pessoais do **CLIENTE** utilizando padrões de cuidado técnica e economicamente razoáveis considerando-se a tecnologia atual da Internet. O **CLIENTE** reconhece que não pode haver expectativa quanto a segurança total na Internet contra invasão de websites ou outros atos irregulares. 
 
-O **CLIENTE** concorda em usar os Serviços de acordo com todas as leis e regulamentações aplicáveis, a Política de Utilização Aceitável, estes Termos de Uso, as Políticas de Privacidade e também concorda que não irá solicitar ou induzir seus usuários ou terceiros a cometerem atos criminosos através da plataforma e serviços conexos.
+O **CLIENTE** concorda em usar os Serviços de acordo com todas as leis e regulamentações aplicáveis, a [Política de Utilização Aceitável](https://github.com/getupcloud/documentos/blob/master/politica-de-utilizacao-aceitavel.md), estes Termos de Uso, as [Políticas de Privacidade](https://github.com/getupcloud/documentos/blob/master/politica-de-privacidade.md) e também concorda que não irá solicitar ou induzir seus usuários ou terceiros a cometerem atos criminosos através da plataforma e serviços conexos.
 
 Poderemos alterar este TERMO DE USO a qualquer momento, bastando, para tanto, publicarmos uma versão revisada em nosso site. Por este motivo, recomendamos veementemente que sempre visite esta seção de nosso Site, lendo, periodicamente, todos os Termos e Políticas relacionados a ele. Mas, para contribuir com nosso relacionamento, também enviaremos um e-mail informando acerca dessas mudanças.
 
