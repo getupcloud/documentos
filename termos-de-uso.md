@@ -10,22 +10,22 @@ Abaixo esclareceremos alguns pontos que julgamos importantes. Caso persista algu
 
 Para fins desta contratação, estabelecemos algumas definições necessárias, assim, as palavras e expressões contidas neste instrumento deverão ser entendidas de acordo com as seguintes definições:
 
-a. **Getup**: cujo endereço eletrônico é www.getupcloud.com, é a plataforma de hospedagem e gerenciamento de aplicativos hospedados em ambiente de nuvem. Também, para melhor entendimento jurídico, na relação de consumo tratado neste documento, será considerada Contratada.
+* a. **Getup**: cujo endereço eletrônico é www.getupcloud.com, é a plataforma de hospedagem e gerenciamento de aplicativos hospedados em ambiente de nuvem. Também, para melhor entendimento jurídico, na relação de consumo tratado neste documento, será considerada Contratada.
 
-b. **CLIENTE**: pessoa física ou jurídica, regularmente inscritas no CPF e CNPJ, respectivamente, que contratem os serviços oferecidos via internet pela **Getup**.
+* b. **CLIENTE**: pessoa física ou jurídica, regularmente inscritas no CPF e CNPJ, respectivamente, que contratem os serviços oferecidos via internet pela **Getup**.
 
-c. **TRANSAÇÃO COMERCIAL**: contratação pelo **CLIENTE** dos serviços oferecidos pela **Getup**, quais sejam, a hospedagem e gerenciamento de aplicativos hospedados em ambiente de nuvem.
+* c. **TRANSAÇÃO COMERCIAL**: contratação pelo **CLIENTE** dos serviços oferecidos pela **Getup**, quais sejam, a hospedagem e gerenciamento de aplicativos hospedados em ambiente de nuvem.
 
-d. **GESTÃO DE PAGAMENTO**: serviço prestado pelos Sistemas de Pagamento Online do Site ou de terceiros contratados por este, pelo pagamento em cartão de crédito. A gestão deste sistema tem como finalidade assegurar o recebimento do valor para a **Getup**.
+* d. **GESTÃO DE PAGAMENTO**: serviço prestado pelos Sistemas de Pagamento Online do Site ou de terceiros contratados por este, pelo pagamento em cartão de crédito. A gestão deste sistema tem como finalidade assegurar o recebimento do valor para a **Getup**.
 
-e. **SITE**: é o endereço eletrônico www.getupcloud.com operado via internet, de propriedade, operação e responsabilidade da GET UP CLOUD Plataforma e Computação em Nuvem LTDA., no qual o **CLIENTE** pode visualizar os serviços disponíveis e realizar as transações comerciais oferecidas pela **Getup**.
+* e. **SITE**: é o endereço eletrônico www.getupcloud.com operado via internet, de propriedade, operação e responsabilidade da GET UP CLOUD Plataforma e Computação em Nuvem LTDA., no qual o **CLIENTE** pode visualizar os serviços disponíveis e realizar as transações comerciais oferecidas pela **Getup**.
 
-f. PRESTADORAS DE SERVIÇOS: empresas terceirizadas e especializadas em cobrança e pagamento via internet, que poderão ser contratadas pela **Getup** para a operacionalização do sistema e **GESTÃO DE PAGAMENTO**.
+* f. PRESTADORAS DE SERVIÇOS: empresas terceirizadas e especializadas em cobrança e pagamento via internet, que poderão ser contratadas pela **Getup** para a operacionalização do sistema e **GESTÃO DE PAGAMENTO**.
 
 1. ADESÃO
 ---------
 
-Este Termo de Uso regula as condições de uso dos serviços da plataforma **Getup** e é um contrato entre você e GET UP CLOUD Plataforma e Computação em Nuvem LTDA., inscrita no CNPJ sob nº xxxxxxxxxxx, com sede na Av. Coronel Marcos, 1919, CEP 91760-000, na cidade de Porto Alegre - RS. A utilização de nossos serviços indica expressamente que você concorda com todos os termos e condições contidos nestes Termos e em quaisquer outros textos legais constantes na página Termos e Condições. Por isto, você deve cumprir os dispostos neste documento e nos outros Termos e Condições pertinentes a plataforma **Getup**.
+Este Termo de Uso regula as condições de uso dos serviços da plataforma **Getup** e é um contrato entre você e **GET UP CLOUD Plataforma e Computação em Nuvem LTDA**., inscrita no CNPJ sob nº xxxxxxxxxxx, com sede na Av. Coronel Marcos, 1919, CEP 91760-000, na cidade de Porto Alegre - RS. A utilização de nossos serviços indica expressamente que você concorda com todos os termos e condições contidos nestes Termos e em quaisquer outros textos legais constantes na página Termos e Condições. Por isto, você deve cumprir os dispostos neste documento e nos outros Termos e Condições pertinentes a plataforma **Getup**.
 
 Também, informamos a você que utilizando nossos serviços você está contratando-os, sendo assim, por força desta contratação você fica obrigado de acordo com os dispostos neste documento e nos demais documentos pertinentes à plataforma **Getup**.
 
