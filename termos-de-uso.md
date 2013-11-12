@@ -6,11 +6,11 @@ TERMO DE USO DOS SERVIÇOS DA GETUP
 
 Olá, é um prazer tê-lo conosco. Se você veio até aqui é porque você resolveu utilizar nossos serviços e por isto, nós agradecemos a escolha. Informamos que este documento, assim como todos os outros documentos atrelados ao nosso serviço em nossa plataforma são de suma importância para a relação entre a **Getup** e você, por isto recomendamos que você leia periodicamente esta seção.
 
-Abaixo esclareceremos alguns pontos que julgamos importantes. Caso persista alguma dúvida acerca de quaisquer pontos discutidos ou não neste documento, por favor, não hesite em contatar-nos pelo endereço contato@getupcloud.com.
+Abaixo esclareceremos alguns pontos que julgamos importantes. Caso persista alguma dúvida acerca de quaisquer pontos discutidos ou não neste documento, por favor, não hesite em contatar-nos pelo endereço [contato@getupcloud.com](mailto:contato@getupcloud.com).
 
 Para fins desta contratação, estabelecemos algumas definições necessárias, assim, as palavras e expressões contidas neste instrumento deverão ser entendidas de acordo com as seguintes definições:
 
-* a. **Getup**: cujo endereço eletrônico é www.getupcloud.com, é a plataforma de hospedagem e gerenciamento de aplicativos hospedados em ambiente de nuvem. Também, para melhor entendimento jurídico, na relação de consumo tratado neste documento, será considerada Contratada.
+* a. **Getup**: cujo endereço eletrônico é [www.getupcloud.com](www.getupcloud.com), é a plataforma de hospedagem e gerenciamento de aplicativos hospedados em ambiente de nuvem. Também, para melhor entendimento jurídico, na relação de consumo tratado neste documento, será considerada Contratada.
 
 * b. **CLIENTE**: pessoa física ou jurídica, regularmente inscritas notermo CPF e CNPJ, respectivamente, que contratem os serviços oferecidos via internet pela **Getup**.
 
@@ -18,9 +18,9 @@ Para fins desta contratação, estabelecemos algumas definições necessárias, 
 
 * d. **GESTÃO DE PAGAMENTO**: serviço prestado pelos Sistemas de Pagamento Online do Site ou de terceiros contratados por este, pelo pagamento em cartão de crédito. A gestão deste sistema tem como finalidade assegurar o recebimento do valor para a **Getup**.
 
-* e. **SITE**: é o endereço eletrônico www.getupcloud.com operado via internet, de propriedade, operação e responsabilidade da GET UP CLOUD Plataforma e Computação em Nuvem LTDA., no qual o **CLIENTE** pode visualizar os serviços disponíveis e realizar as transações comerciais oferecidas pela **Getup**.
+* e. **SITE**: é o endereço eletrônico [www.getupcloud.com](www.getupcloud.com) operado via internet, de propriedade, operação e responsabilidade da GET UP CLOUD Plataforma e Computação em Nuvem LTDA., no qual o **CLIENTE** pode visualizar os serviços disponíveis e realizar as transações comerciais oferecidas pela **Getup**.
 
-* f. PRESTADORAS DE SERVIÇOS: empresas terceirizadas e especializadas em cobrança e pagamento via internet, que poderão ser contratadas pela **Getup** para a operacionalização do sistema e **GESTÃO DE PAGAMENTO**.
+* f. **PRESTADORAS DE SERVIÇOS**: empresas terceirizadas e especializadas em cobrança e pagamento via internet, que poderão ser contratadas pela **Getup** para a operacionalização do sistema e **GESTÃO DE PAGAMENTO**.
 
 1. ADESÃO
 ---------
@@ -57,14 +57,29 @@ A **Getup** reserva-se o direito de excluir, sem contrapartida indenizatória e 
 
 A **Getup**, também, reserva-se o direito de desativar aplicativos em resposta a uma violação ou suspeita de violação da [Política de Utilização Aceitável (PUA)](https://github.com/getupcloud/documentos/blob/master/politica-de-utilizacao-aceitavel.md).
 
-4.PREÇO DOS SERVIÇOS
+4. MODALIDADE GRATUITA – FREE TRIAL
+-----------------------------------
+
+A **Getup** oferece uma modalidade gratuita (free trial), com a utilização limitada a um gear (512MB de RAM e 3GB de disco)  pelo prazo máximo de 750 horas de utilização efetiva do gear, para que o **CLIENTE** possa conhecer e testar nossa ferramenta.
+
+A contagem do prazo de 750 horas de utilização efetiva inicia-se a partir da criação pelo **CLIENTE** de uma aplicação e suspende-se no momento que esta aplicação for apagada do gear, podendo o **CLIENTE** utilizar as 750 horas de forma fracionada, não tendo prazo de vencimento para sua utilização. 
+
+Ao final das 750 horas de utilização efetiva, não tendo o **CLIENTE** optado pela contratação completa dos recursos (full service) da **Getup**, validando sua conta e inserido seus dados de cobrança, nos termos do item 5, ocasionará no desligamento da aplicação, sendo os dados armazenados no gear removidos no prazo de 7 dias, encerrando a modalidade gratuita (free trial).
+
+O **CLIENTE** será avisado próximo ao término do prazo de 750 horas de utilização efetiva de que a modalidade gratuita (free trial) está prestes a terminar. Sendo avisado novamente quando ocorrer o término do prazo de 750 horas de utilização efetiva e o consequente desligamento da aplicação.
+
+A modalidade gratuita (free trial), também poderá ser encerrada antecipadamente, caso o **CLIENTE** opte pela contratação completa dos recursos (full service) da **Getup**, nos termos do item 5, antes do término das 750 horas de utilização efetiva, não sendo as horas não utilizadas da modalidade gratuita (free trial) computadas como crédito na conta do **CLIENTE**.
+
+A modalidade gratuita (free trial) é restrita a uma utilização por **CLIENTE**, não podendo ser renovada ou prorrogada.
+
+5. PREÇO DOS SERVIÇOS
 --------------------
 
 O Cadastro realizado no Site, assim como a escolha dos serviços desejados com suas especificações, inclusive forma de pagamento e entrega serão parte integrantes desta contratação, onde de um lado estará o **CLIENTE** e de outro a **Getup**.
 
-O **CLIENTE** pagará os recursos utilizados entre o primeiro e o último dia de cada mês, de acordo com a quantidade de recursos computacionais utilizados, sendo os valores dos recursos computacionais calculados através de utilização/hora.
+O pagamento pelos recursos utilizados ocorrerá entre o dia 26  do mês vigente e o dia 25 do mês subsequente, de acordo com a quantidade de recursos computacionais utilizados, sendo os valores dos recursos computacionais calculados através de utilização/hora.
 
-Os serviços **Getup** poderão ser fornecidos a você sem custo, em uma conta gratuita, até certos limites. O uso além deste limite requer a compra de recursos adicionais ou serviços. Os preços para os recursos e serviços adicionais podem ser encontradas em www.getupcloud.com/preco
+Os serviços **Getup** poderão ser fornecidos a você sem custo, em uma conta gratuita, até certos limites. O uso além deste limite requer a compra de recursos adicionais ou serviços. Os preços para os recursos e serviços adicionais podem ser encontradas em [http://getupcloud.com/#pricing](http://getupcloud.com/#pricing).
 
 O **CLIENTE** é o único responsável pelo gerenciamento de suas aplicações. Caso suas aplicações demandem mais recursos, esses recursos serão automaticamente liberados, sendo o total utilizado no mês computado para cobrança posterior.
 
