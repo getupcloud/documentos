@@ -87,7 +87,7 @@ Os preços praticados na **TRANSAÇÃO COMERCIAL** são aqueles dispostos no pr�
 
 Em caso de aumento na alíquota dos tributos incidentes sobre os serviços ora contratados ou da imposição de novos tributos relativos a ele, o valor acrescido será repassado de imediato ao preço do serviço, com o que concorda o **CLIENTE**.
 
-5.PAGAMENTO
+6.PAGAMENTO
 -----------
 
 O pagamento dos serviços utilizados, ou **GESTÃO DE PAGAMENTO**, será cobrado através de cartão de crédito, cujo os dados o **CLIENTE** irá fornecer no momento da contratação. A liberação dos recursos comprados ocorrerá após a autorização da operadora do cartão.
@@ -102,11 +102,23 @@ A **Getup** manterá em seus registros os dados do cartão de crédito fornecido
 
 Caso o cartão de crédito utilizado não seja do **CLIENTE**, assume ele plena responsabilidade civil e criminal perante o titular do cartão de crédito pela utilização levada a efeito.
 
-A **Getup** também reserva-se o direito de utilizar, a seu critério, **PRESTADORES DE SERVIÇOS** para facilitar e efetuar a **GESTÃO DE PAGAMENTO**, caso em que o **CLIENTE** deverá ler as políticas relacionadas a estes prestadores, não restando a **Getup** nenhuma responsabilidade acerca da não observância disto, assim como da utilização dos dados pessoais, incluindo dados do cartão de crédito, do **CLIENTE**, por parte destes **PRESTADORES DE SERVIÇO**.
+Corre por conta exclusiva do CLIENTE a obrigação de solicitar a cessação dos débitos em seu cartão de crédito. Por isso, visando a melhor prática de consumo por nossos **CLIENTE**S, alertamos para que você utilize com parcimônia e inteligência seu cartão de crédito.
 
-Corre por conta exclusiva do **CLIENTE** a obrigação de solicitar a cessação dos débitos em seu cartão de crédito. Por isso, visando a melhor prática de consumo por nossos **CLIENTE**S, alertamos para que você utilize com parcimônia e inteligência seu cartão de crédito.
+Nos pagamentos realizados mediante boleto bancário a Getup enviará o boleto de cobrança bancária ao Cliente no endereço eletrônico (e-mail) constante no Formulário de contratação.
 
-6.PRAZO E RESCISÃO
+No caso do Contratante não receber o boleto bancário até 05 dias antes do dia do vencimento, deverá o mesmo informar à Getup para a emissão da 2ª via, sob pena de em não o fazendo sujeitar-se aos efeitos do atraso como adiante detalhados.
+
+Em caso de atraso no pagamento incidirá sobre o valor do principal devido, multa de 2% (dois por cento) e juros moratórios de 1% (hum por cento) ao mês.
+
+A falta de pagamento nas datas determinadas para seu vencimento acarretará na suspensão da prestação do serviço. O Cliente terá o prazo  de 5 (cinco) dias da data do vencimento para regularizar as pendências financeiras a fim de evitar interrupção dos serviços.  
+
+Caso as pendências financeiras não sejam regularizadas no prazo de 30 (trinta) dias, a Getup poderá excluir a conta com a remoção dos dados. 
+
+A falta de pagamento acarreta violação aos termos deste Contrato e permite sua imediata rescisão, independentemente de aviso prévio e sem prejuízo dos procedimentos previstos em lei para alcançar justo ressarcimento.
+
+A Getup também reserva-se o direito de utilizar, a seu critério, PRESTADORES DE SERVIÇOS para facilitar e efetuar aGESTÃO DE PAGAMENTO, caso em que o CLIENTE deverá ler as políticas relacionadas a estes prestadores, não restando a Getup nenhuma responsabilidade acerca da não observância disto, assim como da utilização dos dados pessoais, incluindo dados do cartão de crédito, do CLIENTE, por parte destes PRESTADORES DE SERVIÇO.
+
+7.PRAZO E RESCISÃO
 ------------------
 
 A presente contratação passará a vigorar por prazo indeterminado a partir do preenchimento/aceite no Formulário de Contratação que será obrigatório para que o serviço seja prestado.
@@ -128,7 +140,7 @@ O **CLIENTE** é o único responsável por exportar o seu conteúdo e aplicativo
 Se, por qualquer motivo, a **Getup** encerrar a conta do **CLIENTE**, será garantida uma oportunidade razoável para recuperar o seu conteúdo e aplicativos(s). Contudo, de forma alguma, este período excederá 30 (trinta) dias.
 
 
-7.LIMITAÇÃO DE GARANTIA
+8.LIMITAÇÃO DE GARANTIA
 -----------------------
 
 Dependemos de serviços e infraestrutura fornecidos por terceiros (Amazon e RackSpace) para a prestação do serviço de Plataforma. 
@@ -141,7 +153,7 @@ A **Getup** não será  responsabilizada, em nenhuma hipótese, por danos ocorri
 
 A **Getup** compromete-se em, ao estudar o caso, viabilizar a não cobrança ou o desconto proporcional no caso de interrupção do serviço ou não prestação deste por conta de infraestrutura da plataforma. De forma alguma o desconto ou isenção na cobrança de vencimentos se dará se for constatado que a interrupção tenha sido causada por problemas na aplicação do cliente.
 
-8. DISPOSIÇÕES GERAIS
+9. DISPOSIÇÕES GERAIS
 ---------------------
 
 O **CLIENTE** se obriga a manter atualizados seus dados cadastrais, bem como informar qualquer modificação verificada, especialmente nos seus dados de cartão de crédito, bem como seu endereço de e-mail e telefone os quais serão os principais canais de comunicação entre o **CLIENTE** e a **Getup**.
