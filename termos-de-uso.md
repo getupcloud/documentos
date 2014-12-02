@@ -12,7 +12,7 @@ Para fins desta contratação, estabelecemos algumas definições necessárias, 
 
 * a. **Getup**: cujo endereço eletrônico é [www.getupcloud.com](www.getupcloud.com), é a plataforma de hospedagem e gerenciamento de aplicativos hospedados em ambiente de nuvem. Também, para melhor entendimento jurídico, na relação de consumo tratado neste documento, será considerada Contratada.
 
-* b. **CLIENTE**: pessoa física ou jurídica, regularmente inscritas notermo CPF e CNPJ, respectivamente, que contratem os serviços oferecidos via internet pela **Getup**.
+* b. **CLIENTE**: pessoa física ou jurídica, regularmente inscritas no CPF e CNPJ, respectivamente, que contratem os serviços oferecidos via internet pela **Getup**.
 
 * c. **TRANSAÇÃO COMERCIAL**: contratação pelo **CLIENTE** dos serviços oferecidos pela **Getup**, quais sejam, a hospedagem e gerenciamento de aplicativos hospedados em ambiente de nuvem.
 
@@ -73,11 +73,11 @@ A modalidade gratuita (free trial), também poderá ser encerrada antecipadament
 A modalidade gratuita (free trial) é restrita a uma utilização por **CLIENTE**, não podendo ser renovada ou prorrogada.
 
 5. PREÇO DOS SERVIÇOS
---------------------
+---------------------
 
 O Cadastro realizado no Site, assim como a escolha dos serviços desejados com suas especificações, inclusive forma de pagamento e entrega serão parte integrantes desta contratação, onde de um lado estará o **CLIENTE** e de outro a **Getup**.
 
-O pagamento pelos recursos utilizados ocorrerá entre o dia 26  do mês vigente e o dia 25 do mês subsequente, de acordo com a quantidade de recursos computacionais utilizados, sendo os valores dos recursos computacionais calculados através de utilização/hora.
+O **CLIENTE** pagará os recursos utilizados entre o primeiro e o último dia de cada mês, de acordo com a quantidade de recursos computacionais utilizados, sendo os valores dos recursos computacionais calculados através de utilização/hora.
 
 Os serviços **Getup** poderão ser fornecidos a você sem custo, em uma conta gratuita, até certos limites. O uso além deste limite requer a compra de recursos adicionais ou serviços. Os preços para os recursos e serviços adicionais podem ser encontradas em [http://getupcloud.com/#pricing](http://getupcloud.com/#pricing).
 
@@ -87,8 +87,8 @@ Os preços praticados na **TRANSAÇÃO COMERCIAL** são aqueles dispostos no pr�
 
 Em caso de aumento na alíquota dos tributos incidentes sobre os serviços ora contratados ou da imposição de novos tributos relativos a ele, o valor acrescido será repassado de imediato ao preço do serviço, com o que concorda o **CLIENTE**.
 
-6.PAGAMENTO
------------
+6. PAGAMENTO
+------------
 
 O pagamento dos serviços utilizados, ou **GESTÃO DE PAGAMENTO**, será cobrado através de cartão de crédito, cujo os dados o **CLIENTE** irá fornecer no momento da contratação. A liberação dos recursos comprados ocorrerá após a autorização da operadora do cartão.
 
@@ -118,8 +118,8 @@ A falta de pagamento acarreta violação aos termos deste Contrato e permite sua
 
 A Getup também reserva-se o direito de utilizar, a seu critério, PRESTADORES DE SERVIÇOS para facilitar e efetuar aGESTÃO DE PAGAMENTO, caso em que o CLIENTE deverá ler as políticas relacionadas a estes prestadores, não restando a Getup nenhuma responsabilidade acerca da não observância disto, assim como da utilização dos dados pessoais, incluindo dados do cartão de crédito, do CLIENTE, por parte destes PRESTADORES DE SERVIÇO.
 
-7.PRAZO E RESCISÃO
-------------------
+7. PRAZO E RESCISÃO
+-------------------
 
 A presente contratação passará a vigorar por prazo indeterminado a partir do preenchimento/aceite no Formulário de Contratação que será obrigatório para que o serviço seja prestado.
 
@@ -140,8 +140,8 @@ O **CLIENTE** é o único responsável por exportar o seu conteúdo e aplicativo
 Se, por qualquer motivo, a **Getup** encerrar a conta do **CLIENTE**, será garantida uma oportunidade razoável para recuperar o seu conteúdo e aplicativos(s). Contudo, de forma alguma, este período excederá 30 (trinta) dias.
 
 
-8.LIMITAÇÃO DE GARANTIA
------------------------
+8. LIMITAÇÃO DE GARANTIA
+------------------------
 
 Dependemos de serviços e infraestrutura fornecidos por terceiros (Amazon e RackSpace) para a prestação do serviço de Plataforma. 
 
