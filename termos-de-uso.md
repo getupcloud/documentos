@@ -60,17 +60,29 @@ A **Getup**, também, reserva-se o direito de desativar aplicativos em resposta 
 4. MODALIDADE GRATUITA – FREE TRIAL
 -----------------------------------
 
-A **Getup** oferece uma modalidade gratuita (free trial), com a utilização limitada a um gear (512MB de RAM e 3GB de disco)  pelo prazo máximo de 750 horas de utilização efetiva do gear, para que o **CLIENTE** possa conhecer e testar nossa ferramenta.
+4.a. FREE TRIAL
+---------------
 
-A contagem do prazo de 750 horas de utilização efetiva inicia-se a partir da criação pelo **CLIENTE** de uma aplicação e suspende-se no momento que esta aplicação for apagada do gear, podendo o **CLIENTE** utilizar as 750 horas de forma fracionada, não tendo prazo de vencimento para sua utilização. 
+Para que o **CLIENTE** possa conhecer e testar nosso serviço, a **Getup** oferece a modalidade free trial, com a utilização limitada a um gear do tipo small (512MB de RAM e 3GB de disco) pelo prazo máximo de 750 horas de utilização efetiva do gear.
+
+A contagem do prazo de 750 horas de utilização efetiva inicia-se a partir da criação pelo **CLIENTE** de uma aplicação e suspende-se no momento que esta aplicação for apagada, podendo o **CLIENTE** utilizar as 750 horas de forma fracionada, não tendo prazo de vencimento para sua utilização.
 
 Ao final das 750 horas de utilização efetiva, não tendo o **CLIENTE** optado pela contratação completa dos recursos (full service) da **Getup**, validando sua conta e inserido seus dados de cobrança, nos termos do item 5, ocasionará no desligamento da aplicação, sendo os dados armazenados no gear removidos no prazo de 7 dias, encerrando a modalidade gratuita (free trial).
 
-O **CLIENTE** será avisado próximo ao término do prazo de 750 horas de utilização efetiva de que a modalidade gratuita (free trial) está prestes a terminar. Sendo avisado novamente quando ocorrer o término do prazo de 750 horas de utilização efetiva e o consequente desligamento da aplicação.
+O **CLIENTE** será avisado por email próximo ao término do prazo de 750 horas de utilização efetiva de que a modalidade gratuita (free trial) está prestes a terminar. Sendo avisado novamente quando ocorrer o término do prazo de 750 horas de utilização efetiva e o consequente desligamento da aplicação.
 
-A modalidade gratuita (free trial), também poderá ser encerrada antecipadamente, caso o **CLIENTE** opte pela contratação completa dos recursos (full service) da **Getup**, nos termos do item 5, antes do término das 750 horas de utilização efetiva, não sendo as horas não utilizadas da modalidade gratuita (free trial) computadas como crédito na conta do **CLIENTE**.
+No caso do **CLIENTE** optar pela contratação completa dos recursos (full service) da Getup, nos termos do item 5, antes do término das 750 horas do free trial, as horas não utilizadas serão computadas como crédito na conta do CLIENTE.
 
-A modalidade gratuita (free trial) é restrita a uma utilização por **CLIENTE**, não podendo ser renovada ou prorrogada.
+A modalidade gratuita (free trial) é restrita a uma utilização por CLIENTE, não podendo ser renovada ou prorrogada.
+
+4.b. FREE TIER
+--------------
+
+O  “free tier” são horas gear small grátis para que o cliente possa utilizar a plataforma Getup da maneira que quiser.  O “free tier” é oferecido ao **CLIENTE** participante de promoções, sorteios, eventos ou que tenham acesso aos cupons promocionais. 
+
+O “free tier” funcionará como um desconto sendo calculado a partir do valor hora do gear small, assim quando (ou se) o consumo ultrapassar o valor monetário das horas “free tier” o **CLIENTE** pagará o excedente utilizado,  tendo o valor das horas gear small promocionais descontadas da sua fatura.
+
+O “free tier” é renovável, não cumulativo e de prazo indeterminado, ou seja, a cada ciclo de cobrança o CLIENTE beneficiado com o “free tier” terá as horas novamente creditadas em sua conta.
 
 5. PREÇO DOS SERVIÇOS
 ---------------------
