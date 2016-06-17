@@ -2,7 +2,7 @@
 Este Termos de Uso estabelece as regras para utilização da Plataforma Getup. Informamos que através da sua aceitação você está contratando nossos serviços e aceitando as condições apresentadas neste contrato. Se você não concorda com os termos e condições apresentados, não finalize seu cadastro, nem utilize nossos serviços. A utilização da plataforma implica em contratação tácita de nossos serviços e por força dessa contratação a concordância com as cláusulas aqui apresentadas.
 Caso persista alguma dúvida sobre este documento entre em contato através do email contato@getupcloud.com. 
 
-### 1.Adesão ao Contrato
+### 1. Adesão ao Contrato
 --------------------
 Este Termos de Uso é um contrato e regula as condições de uso e prestação dos serviços entre a Get Up Plataforma em computação na Nuvem, inscrita no CNPJ sob n 18.366.718/0001-61,  doravante denominada "Getup Cloud" e com endereço eletrônico www.getupcloud.com, doravante denominado "site" e você, pessoa física ou jurídica, regularmente inscrita no CPF ou CNPJ, doravante denominado "cliente"
 
@@ -12,7 +12,7 @@ O preenchimento do Formulário de Contratação (cadastro de usuário do sistema
 * [Política de Suporte](https://github.com/getupcloud/documentos/blob/master/politica-de-suporte.md)
 * [Política de Privacidade](https://github.com/getupcloud/documentos/blob/master/politica-de-privacidade.md)
 
-### 2.  Sua Conta
+### 2. Sua Conta
 O cliente fará a contratação dos serviços da Getup Cloud através do site (www.getupcloud.com), efetuando seu cadastro e definindo um login e senha.
 O cliente é o responsável por sua senha e login. A Getup Cloud recomenda que o cliente não compartilhe com terceiros tais informações e, caso estas informações sejam extraviadas e ou hackeadas, pedimos que nos informe imediatamente para  que possamos solucionar a questão.  
 **ATENÇÃO: O cliente deve guardar o endereço de e-mail cadastrado como login. Esse endereço deverá ser válido e permanecer válido durante todo o prazo de utilização dos serviços, todas as aplicações e atividades do cliente serão vinculadas ao endereço de e-mail cadastrado na conta.**
@@ -72,15 +72,25 @@ O cliente expressamente entende e concorda que a Getup Cloud não terá qualquer
 
 ### 10. Disposições Gerais
 A Getup Cloud poderá alterar este Termos de Uso a qualquer momento, bastando, para tanto, publicar sua versão revisada no site.
+
 O cliente não será obrigado a continuar utilizando os serviços Getup Cloud em caso de modificação dos Termos de Uso, entretanto o não encerramento da conta pelo cliente nos 30 dias posteriores à notificação será considerado como aceitação das alterações realizadas.
+
 O cliente entende e concorda que pela natureza do serviços prestados pela Getup Cloud, planos e serviços oferecidos podem ser descontinuados ou modificados, sem obrigação de qualquer espécie de notificação prévia. As modificações podem recair sobre preço, políticas de pagamento, normas de segurança entre outras funcionalidades.
+
 O cliente entende e concorda que qualquer exemplo ou menção ao uso de tecnologia presente no site que não seja Getup Cloud tem caráter meramente informativo e não constitui aprovação ou recomendação.
+
 A Getup Cloud reserva-se o direito de excluir e/ou desativar aplicações, sem contrapartida indenizatória e sem aviso prévio, qualquer conta de qualquer cliente em resposta a violação aos ditames da Política de Utilização Aceitável (PUA).
+
 A Getup Cloud protege os dados pessoais do cliente observando padrões de cuidado técnico e economicamente razoáveis considerando as tecnologias atuais disponíveis. O cliente reconhece que não pode haver expectativa quanto à segurança total na internet e que a Getup Cloud não poderá ser responsabilizada em caso de  invasão  de websites ou outros atos ilegais de terceiros (hackers).
+
 A Getup Cloud garante que os dados e informações armazenadas em nossos servidores somente serão revelados à terceiros por força de ordem judicial de acordo com a lei.
+
 O cliente fica ciente de que a obrigação formalizada é constituída em solo nacional, esteja ou não sua aplicação hospedada em território estrangeiro, de sorte que o acordo firmado entre as partes será regido pela legislação brasileira.
+
 A Getup CLoud espera do cliente que ele não utilize os serviços para quaisquer fins ou meios ilegais, difamatórios, discriminatórios, abusivos, ofensivos, obscenos, agressivos, injuriosos, enganosos, violentos ou de assédio, ameaça ou uso de falsa identidade brasileira e eventuais tratados internacionais firmados pelo Brasil, sujeitando-se à legislação pertinente.
+
 O cliente e a Getup Cloud acordam, de boa-fé e de livre vontade que, ainda que por demanda judicial, a responsabilidade da Getup Cloud por eventuais danos decorrentes do contrato ficará limitada ao valor do  contrato anual do cliente.
+
 A Getup Cloud poderá modificar, parcial ou integralmente, a seu exclusivo critério, os sistemas pelos quais efetiva a prestação de serviços, não podendo o cliente exigir qualquer continuação do software, modelo, padrão, plataforma, endereço online, site ou qualquer outro tipo de sistema.
 Ainda que eventual determinação legal anule ou torne ineficaz qualquer condição do presente documento, as demais disposições permanecerão válidas.
 11. Foro
