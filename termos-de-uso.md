@@ -93,5 +93,6 @@ O cliente e a Getup Cloud acordam, de boa-fé e de livre vontade que, ainda que 
 
 A Getup Cloud poderá modificar, parcial ou integralmente, a seu exclusivo critério, os sistemas pelos quais efetiva a prestação de serviços, não podendo o cliente exigir qualquer continuação do software, modelo, padrão, plataforma, endereço online, site ou qualquer outro tipo de sistema.
 Ainda que eventual determinação legal anule ou torne ineficaz qualquer condição do presente documento, as demais disposições permanecerão válidas.
-11. Foro
+
+### 11. Foro
 Fica eleito o foro da cidade de São Paulo no estado de São Paulo , como único competente para dirimir eventuais controvérsias entre as partes ou para a execução deste Instrumento, com renúncia expressa a qualquer outro foro, por mais privilegiado que seja.
