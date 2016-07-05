@@ -1,63 +1,53 @@
 POLÍTICA DE SUPORTE
 ===================
 
-A **Getup** está comprometida em superar as expectativas de seus clientes. Como parte deste comprometimento oferecemos suporte técnico gratuito a todas as aplicações rodando em nossa Plataforma. 
-O suporte técnico gratuito está limitado a determinado escopo, horário, canais de atendimento e tempo de resposta conforme descrito abaixo.
+A **Getup** está empenhada em oferecer a melhor experiência para seus usuários, desde desenvolvedores e startups até grandes empresas e para isso oferecemos diversas formas de suporte técnico, cada uma de acordo com suas necessidades. 
 
-Escopo
-------
+Todos os usuários tem acesso ao Plano Basic, disponível através de [documentação](https://ajuda.getupcloud.com/) e do [fórum da comunidade](https://ajuda.getupcloud.com/hc/pt-br/community/topics). Lá você encontrará documentação completa sobre o serviço, desde o básico até recursos avançados, bem como as melhores práticas para desenvolvimento de aplicações. No fórum comunidade você conta com a ajuda de outros usuários Getup e também de membros da nossa equipe. 
 
-Nosso suporte técnico gratuito abrange somente as tecnologias e componentes relacionados a nossa plataforma.
+Para aqueles que buscam atendimento com SLA no tempo de resposta, outros canais de atendimento ou cobertura maior no escopo, temos planos que podem ser contratados (Developer, Standard, Business ou Premium), neles você tem acesso ao nosso time de acordo com o escopo e canais disponíveis em cada plano.
 
-Alguns exemplos para um melhor detalhamento:
+Planos de Suporte
+-----------------
+### Basic
 
-* Dificuldade de instalação e configuração da aplicação ou dependências
-* Ajuda na configuração da aplicação desde que suportadas pela plataforma
-* Dúvidas gerais sobre sistemas suportados
-* Solução de problemas que possam impedir uma aplicação de funcionar na Plataforma
-* Responder questões em nossos foruns
-* Elaboração de how-to baseados em dúvidas frequentes de nossos clientes
-* Indicar documentação que possa ajudar em uma dúvida
-* Solução de problemas em pacotes, sistemas ou componentes suportados pela **Getup** e que estejam apresentando comportamento anormal ou falho
+* Gratuito para todos os usuários. 
+* Cobre as tecnologias da Getup PaaS.
+* Manuais disponíveis na documentação e fórum da Comunidade.
 
-Fora do Escopo
---------------
+### Developer
 
-Nosso suporte técnico não abrange algumas situações, são elas:
+* Recomendado para ambientes de teste/homologação.
+* Atendimento através de fórum e ticket web.
+* Disponível em horário comercial. 
+* Mais informações sobre plano [Developer](https://ajuda.getupcloud.com/hc/pt-br/articles/218974087)
 
-* Debug ou depuração de código na aplicação do cliente
-* Reescrever código da aplicação do cliente
-* Modificar softwares ou componentes de terceiros para que sejam compatíveis com a Plataforma **Getup** sem que exista uma demanda significativa
+### Standard
 
-É importante esclarecer que (in)felizmente você deverá ler para encontrar aquilo que procura, por isto, recomendamos que antes de recorrer ao nosso suporte, leia nossos Foruns em https://getup.zendesk.com/forums, e caso persistam as dúvidas ou problemas, não hesite em contatar-nos.
+* Recomendado para negócios com alguma dependência das aplicações web. 
+* Atendimento através de fórum, ticket web, chat. 
+* Disponível em horário comercial.
+* Mais informações sobre plano [Standard](https://ajuda.getupcloud.com/hc/pt-br/articles/218974107)
 
-Horário de atendimento
-----------------------
+### Business
 
-Oferecemos atendimento das 9 as 19hs (horário de brasília UTC/GMT -3), de segunda a sexta, exceto em feriados nacionais.
+* Recomendado para negócios com dependência substancial das aplicações web. 
+* Atendimento através de fórum, ticket web, chat e telefone.
+* Dispnível 24x7.
+* Mais informações sobre plano [Business](https://ajuda.getupcloud.com/hc/pt-br/articles/218470808)
 
-Canais de atendimento
----------------------
+### Premium
 
-O suporte técnico é oferecido através do endereço https://getup.zendesk.com/ onde usuários cadastrados tem acesso a abertura de tickets. Ocorrências também podem ser abertas enviando email para suporte@getupcloud.com
+* Recomendado para negócios com dependência crítica e estratégica das aplicações web. 
+* Atendimento através de fórum, web, chat e telefone.
+* Hands-on.
+* Disponível 24x7.
+* Mais informações sobre plano [Premium](https://ajuda.getupcloud.com/hc/pt-br/articles/218470818)
 
-Tempo de reposta
-----------------
-
-A **Getup** compromete-se a responder a você, com a melhor solução possível, no menor espaço de tempo, contudo deve-se levar em conta a gravidade do problema em questão. Apesar de presarmos pela paridade de nossos CLIENTES, alguns problemas mostram-se mais graves e, por isso, urgentes que outros, motivo pelo qual, aqueles terão preferência de atendimento - **disponibilidade de determinado componente afetando de forma total ou parcial o uso do serviço vs. dúvida sobre determinado ponto**.
+Saiba mais sobre os [planos de suporte](https://ajuda.getupcloud.com/hc/pt-br/articles/218461568).
 
 Monitoramento
--------------
+--------------
+A Plataforma Getup é monitorada 24×7. Sempre que uma indisponibilidade ou comportamento anormal que afete a operação correta dos sistemas é detectado, nosso time de operações é acionado. Publicamos a evolução do trabalho deste tipo de ocorrência em nossa conta de status [@getupstatus](https://twitter.com/getupstatus). 
+Recomendamos que você não acione o suporte referente a eventos que estejam sendo reportados em nossa conta de status.
 
-A Plataforma **Getup** é monitorada 24x7. Sempre que uma indisponibilidade ou comportamento anormal que afete a operação correta dos sistemas é detectado, nosso time de operações é acionado.
-Publicamos a evolução do trabalho deste tipo de ococrrência em nossa conta de status no twitter @GetupStatus. Recomendamos que você não abra tickets para o suporte referente a eventos que estejam sendo reportados em nossa conta de status.
-
-Suporte diferenciado
---------------------
-
-Se você precisa de um formato de suporte diferente do apresentado, entre em contato conosco através do email sales@getupcloud.com
-
-Por fim, declaramos que faz parte da cultura da **Getup**, visando a melhor relação com nossos clientes, o diálogo franco e aberto com estes. Assim, os ditames neste documento e nas demais políticas de nossa plataforma, de forma alguma, é unilateral, ou seja, não estamos fechados ao que você tiver para falar ou contrapor. Por isso, caso haja algo que você não concorde ou que acredita que possamos melhorar, não hesite em nos falar, estamos prontos para lhe ouvir.
-
-    Precisa de ajuda? Fale conosco.
-    Não é cliente ainda? Pergunte assim mesmo, adoramos bater papo, coletar ideias e sugestões.
