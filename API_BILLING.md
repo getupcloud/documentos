@@ -1,6 +1,6 @@
 # Getup Engine API
 
-Este documento descreve brevemente como acessar e quais as funcionalidades básicas disponíveis na Getup Enguine API.
+Este documento descreve brevemente como acessar e quais as funcionalidades básicas disponíveis na Getup Engine API.
 
 ## Endpoint de acesso
 
@@ -349,8 +349,8 @@ O acesso adminstrativo permite listar as faturas dos usuários.
 Listar as faturas do mês atual. Os filtros `year`,`month`, `user` e `status` podem ser utilizados
 na _querystring_:
 
-- **year**: Ano, com 4 digitos (AAAA). Default: ano atual
-- **month**: Mês, com 2 digitos (MM). Default: mês atual
+- **year**: Ano, com 4 dígitos (AAAA). Default: ano atual
+- **month**: Mês, com 2 dígitos (MM). Default: mês atual
 - **user**: Email do usuário. Default: todos os usuários
 - **status**: Um dos seguintes valores: `partial`, `new`, `paid` ou `failed`. Default: todos os status
 - **all**: Retorna todos os registros do banco. Esta operação pode ser longa
