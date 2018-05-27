@@ -24,11 +24,11 @@ Para acessar o endpoint público, use a url `https://gapi.getupcloud.com`.
 
 ## Autenticação
 
-Para acesso autenticado é necessário utilizar um dos métidos descritos abaixo:
+Para acesso autenticado é necessário utilizar um dos métodos descritos abaixo:
 
 ### Autenticação Basic HTTP
 
-Fornecao o email e a senha do usuário na requisição.
+Forneça email e senha do usuário na requisição.
 
 Exemplo:
 
@@ -97,7 +97,7 @@ Retorna informações sobre a conta autenticada.
 }
 ```
 
-## Billing
+## Faturas
 
 #### GET /api/v1/invoice/
 
@@ -337,3 +337,8 @@ Retorna a fatura detalhada do mês/ano especifico.
     "cost_currency": "BRL"
 }
 ```
+
+## Acesso Adminstrativo
+
+O acesos adminstrativo é feito através 
+
