@@ -53,7 +53,7 @@ $ curl https://${GAPI}/api/v1/auth/login/ -X POST --data "email=${EMAIL}" --data
 Use os campos `auth_type` e `key` da resposta em requisições subsequentes:
 
 ```bash
-$ curl https://${GAPI}/api/v1/customer/user/ -H "Authorization: ${AUTH_TYPE} ${KEY}" | python -m json.tool
+$ curl https://${GAPI}/api/v1/customer/user/ -H "Authorization: ${AUTH_TYPE} ${KEY}"
 ```
 
 ## Dados da conta
@@ -105,7 +105,7 @@ Retorna a lista de faturas do usuário autenticado.
 
 ```json
 {
-    "count": 2,
+    "count": 3,
     "next": null,
     "previous": null,
     "results": [
@@ -340,5 +340,49 @@ Retorna a fatura detalhada do mês/ano especifico.
 
 ## Acesso Adminstrativo
 
-O acesos adminstrativo é feito através 
+O acesso adminstrativo permite listar as faturas dos usuários.
 
+> Este acesso exige um usuário com poder administrativo.
+
+### GET /api/admin/v1/billing/invoice/
+
+Listar as faturas do mês atual. Os filtros `year`,`month`, `user` e `status` podem ser utilizados
+na _querystring_:
+
+- **year**: Ano, com 4 digitos (AAAA). Default: ano atual
+- **month**: Mês, com 2 digitos (MM). Default: mês atual
+- **user**: Email do usuário. Default: todos os usuários
+- **status**: Um dos seguintes valores: `partial`, `new`, `paid` ou `failed`. Default: todos os status
+- **all**: Retorna todos os registros do banco. Esta operação pode ser longa
+
+Exemplo:
+
+```
+$ curl "https://${GAPI}/api/admin/v1/billing/invoice/?status=paid&month=01&year=2018" --user ${ADMIN_USER}:${ADMIN_PASS}
+[
+    {
+        "user_id": 1968,
+        "user": "bob.kennedy@gmail.com",
+        "year": 2018,
+        "month": 1,
+        "cost": 59.194,
+        "status": "paid"
+    },
+    {
+        "user_id": 1963,
+        "user": "john.kennedy@gmail.com",
+        "year": 2018,
+        "month": 1,
+        "cost": 38.349,
+        "status": "paid"
+    },
+    {
+        "user_id": 2009,
+        "user": "ted.kennedy@gmail.com",
+        "year": 2018,
+        "month": 1,
+        "cost": 0.0,
+        "status": "paid"
+    }
+]
+```
